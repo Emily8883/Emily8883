@@ -102,13 +102,6 @@ My work sits at the intersection of Python, AI, web development, and user-focuse
 - Developing scalable full-stack applications
 - Improving design systems and user experience
 
-## Contact Information
-
-- GitHub: [elenaoliver0477-ops](https://github.com/elenaoliver0477-ops)
-- Email: your-email@example.com
-- LinkedIn: add your LinkedIn profile here
-- Portfolio: add your website here
-
 ## Closing Note
 
 I'm always open to collaborating on Python projects, AI products, full-stack applications, and website design work. If you'd like to connect, feel free to reach out through GitHub.
